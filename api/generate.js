@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const imageUrl = `https://api.sxtream.xyz/maker/iqc?text=${encodeURIComponent(
+    const imageUrl = `https://api.botcahx.eu.org/api/maker/iqc?text=${encodeURIComponent(
       text
     )}`;
 
